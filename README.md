@@ -1,3 +1,5 @@
+### This Repo is based off a template. I have made some amendments specifically for my use but all credit goes to its original creator. See README below.
+
 ![thumbnail](https://user-images.githubusercontent.com/16558205/180779213-ea740975-3df1-460a-a964-0a623ee25872.png)
 
 ### Live - https://react-portfolio-template.netlify.app/

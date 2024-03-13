@@ -1,1 +1,123 @@
-{"name":"Chetan","headerTaglineOne":"Hello 👋","headerTaglineTwo":"I'm Chetan Verma - curious","headerTaglineThree":"designer and devloper","headerTaglineFour":" based in New Delhi, India.","showCursor":true,"showBlog":true,"darkMode":true,"showResume":true,"socials":[{"id":"1","title":"Github","link":"https://github.com/chetanverma16"},{"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/chetanverma7/"},{"id":"3","title":"Twitter","link":"https://twitter.com/realchetanverma"},{"id":"4","title":"Blog","link":"https://blog.chetanverma.com/"},{"id":"5","title":"Email","link":"mailto:hello@chetanverma.com"}],"projects":[{"id":"1","title":"Project One Test","description":"Web Design","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"2","title":"Project Two","description":"Web Development","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"3","title":"Project Three","description":"Design","imageSrc":"https://images.unsplash.com/photo-1504083898675-c896ecdae86e?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjJ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"4","title":"Project Four","description":"Marketing","imageSrc":"https://images.unsplash.com/photo-1492171983775-a51717616c0d?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NjB8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"5","title":"Project Five","description":"Development","imageSrc":"https://images.unsplash.com/photo-1534239143101-1b1c627395c5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzZ8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"},{"id":"6","title":"Project Six","description":"Design & Development","imageSrc":"https://images.unsplash.com/photo-1517479149777-5f3b1511d5ad?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTAyfHxwYXN0ZWx8ZW58MHx8MHw%3D&auto=format&fit=crop&w=400&q=60","url":"http://chetanverma.com/"}],"services":[{"id":"1","title":"Art Direction","description":"We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."},{"id":"2","title":"Branding","description":"We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."},{"id":"3","title":"Web Design","description":"We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."},{"id":"4","title":"3D Design","description":"We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."}],"aboutpara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","resume":{"tagline":"👋  I'm a software engineer, product designer.","description":"I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.","experiences":[{"id":"1","dates":"March 2022 - Present","type":"Full Time","position":"Frontend Engineer at X","bullets":"Bullet One, Bullet Two"},{"id":"d495c23b-4f65-479a-9b8a-cfbc1c089725","dates":"July 2020 - March 2022","type":"Full Time","position":"Frontend Engineer at X","bullets":"Worked on the frontend of a React application, Worked on the frontend of a React application"}],"education":{"universityName":"University X","universityDate":"2016-2020","universityPara":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book"},"languages":["Javascript","HTML5","CSS","Python","Go"],"frameworks":["React","Typescript","NodeJs"],"others":["Figma","AdobeXD","AWS"]}}
+{
+    "name": "Liron Toledo",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Liron Toledo",
+    "headerTaglineThree": "Software Engineer",
+    "headerTaglineFour": "London, UK",
+    "showCursor": false,
+    "showBlog": false,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+      { "id": "1", "title": "Github", "link": "https://github.com/Liron-Toledo" },
+      {
+        "id": "2",
+        "title": "LinkedIn",
+        "link": "https://www.linkedin.com/in/liron-toledo/"
+      }
+    ],
+    "projects": [
+      {
+        "id": "1",
+        "title": "CoDeepNEAT",
+        "description": "Implementation and improvement of an existing evolutionary learning algorithm known as CoDeepNEAT. Our improvements proved successful in increasing the algorithm's speed and accuracy and were published in the IEEE Journal in 2020.",
+        "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZ4zkTH7uUhAf7W-SCl3cTd-LUzGo36ZvTvEhTKDxcsZYnY5W6NtlACkk2rxIshDmBcqA2kFhlYP2Ci5QxBvdCRUFZ9=s1600",
+        "url": "https://github.com/sash-a/CoDeepNEAT"
+      },
+      {
+        "id": "2",
+        "title": "Bullet Sponge",
+        "description": "Collaborated with small team in the implementation of a game created using Unity for GMTK23. One of the largest Game Jams competitions in the world. We built this game in just 48 hours. It can be described as a reverse bullet hell where you must be shot as much as possible!",
+        "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AKGpihZpnK8jlbFG9CLxFljDdUTVSC0gDiryG-oluNTS5jYtKVmYEDq6UTWO-kCn7cF0ZfnnnEcBUYR0K6HkKXe1p4H2gnab=s2560",
+        "url": "https://smashaza.itch.io/bullet-sponge"
+      },
+      {
+        "id": "3",
+        "title": "B.R.B",
+        "description": "Collaborated in an entry for Ludum Dare 51. A small team and I built this video game in just 48 hours and came 210th out of 2414 entries. You play as a robot on an invaded ship, but you need to recharge every 10 seconds. Kill enemies to survive, but watch out the ship never forgets.",
+        "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AKGpihbPhOPqEYYuzhDL48lubi_kWybL8PN35e1DvJzavE8WndVnV8vBet44_qB15-uETjzeGX-GcmmXRFk5_HOUH7yWqxWRDQ=s1600",
+        "url": "https://smashaza.itch.io/ghost-loop"
+      },
+      {
+        "id": "4",
+        "title": "Serpus",
+        "description": "Participated in a local game jam held in South Africa. Collaborated with small team to create this game in 48 hours. Discover the right weapons needed to kill the boss!",
+        "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AKGpihY4ve5nqjQOXn7MYKZrtZSSeqbqDUHS7Xoc-MP231qlBN_l5qk3PAo15ZsFn6qZhJ2pc1xZCUWkyT6AAvUNbme8h03M=s2560",
+        "url": "https://smashaza.itch.io/serpus"
+      },
+      {
+        "id": "5",
+        "title": "Secret Sauce",
+        "description": "Collaborated with a small team on an entry to GMTK21. This game was completed in 48 hours. You are the secret sauce! Grow your horde to win and remember not to get found!",
+        "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYSFFihpRr3SV3hnNU0L3pJj_QvzDHu81XsyRCv3aJqynA7SgiGkKrN1UFD_yc6NgChQEJohc2v0h60hXet9usgFnd_8w=s2560",
+        "url": "https://smashaza.itch.io/secret-sauce"
+      },
+      {
+        "id": "6",
+        "title": "Orb",
+        "description": "Fully networked assymetric shooter made in unity. The game takes place on the inside of a sphere which you can fully traverse and if the opportunity presents itself shoot enemies directly above your head. The environment is also fully destructible, with the abilitiy to dig into caves to mine money or find portals to special weapons. The two classes have different abilities, the gunners have multiple weapons and grenades some of which need to be purchased and the wizards have a shield, a shock attack and can levitate voxels from the destructible ground and shoot it at enemies.",
+        "imageSrc": "https://lh3.googleusercontent.com/drive-viewer/AKGpihYKqL_A40qXYRKqUfPVmJhjXfoZZNMBbaiTnOgau1bFqPACcNgQW4I-sdW2OBJOI-CeDwl65xpOT3tvdoFAUJ52YEO-=s1600",
+        "url": "https://projects.cs.uct.ac.za/gamesproj/cgi-bin/view/2018/abramowitz_acton_toledo.zip/OrbWebsite/"
+      }
+    ],
+    "services": [
+      {
+        "id": "1",
+        "title": "Front-End Development",
+        "description": "As a front-end developer, I have a deep proficiency in JavaScript, TypeScript, HTML, React, and CSS, which enables me to create dynamic, user-friendly interfaces. My role in developing and managing sophisticated 3D applications and software projects has honed my skills, allowing me to deliver engaging and immersive digital experiences through meticulous attention to detail and a keen eye for design."
+      },
+      {
+        "id": "2",
+        "title": "Back-End Development",
+        "description": "In the realm of back-end development, I leverage technologies such as SQL, MySQL, Firebase, AWS and NodeJS to build robust, scalable systems. My experience ranges from enhancing backend infrastructures for 3D applications to streamlining data analysis processes, ensuring that I can integrate complex databases and server logic seamlessly with front-end components for efficient and reliable application performance."
+      },
+      {
+        "id": "3",
+        "title": "3D Software Development",
+        "description": "My expertise in 3D software development is marked by my use of advanced visualization libraries like Three.js, ArcGIS, and Leaflet, alongside game engines such as Unity and Unreal. I have contributed to projects from creating masterplan visualizers and digital twins for urban design to developing immersive metaverse experiences, pushing the boundaries of virtual environments and simulations with innovative 3D technology applications."
+      },
+      {
+        "id": "4",
+        "title": "Game Development",
+        "description": "My passion for game development is fuelled by my proficiency with Unity and Unreal Engine, underpinned by a solid grounding in C#, C++, and other related technologies. My academic background in computer games development and hands-on experience with games created outside of work such as B.R.B and Bullet Sponge exemplify my ability to design complex game mechanics, 3D models, and animations, creating engaging, entertaining, and visually stunning game experiences."
+      }
+    ],
+    "aboutpara": "My passion for programming began in my formative years and ever since has shaped my career and personal interests. I have a Bachelor of Science and an Honours in Computer Science from the University of Cape Town, with a focus on computer games development. I have also leveraged my skills to construct innovative applications in various domains, such as video games, 3D software, web, and AI. I have published a paper on applying evolutionary algorithms to automate deep neural network parameter optimization, and I often contribute to video game hackathons. I thrive on challenges that sharpen my skills and expand my knowledge, particularly in collaborative environments where I can contribute to solving complex problems. I am committed to continuous learning and actively explore new technologies and advance my expertise. Looking forward, I am eager to bring this blend of experience, innovation, and proven impact to any position I undertake.",
+    "resume": {
+      "tagline": "Software Engineer",
+      "description": "A skilled software engineer with a passion for full-stack development, 3D software, and game development. My expertise encompasses a broad range of technologies, including JavaScript, React, NodeJS, Unity, etc enabling him to create innovative and impactful digital solutions.",
+      "experiences": [
+        {
+          "id": "1",
+          "dates": "May 2023 - Present",
+          "type": "Full Time",
+          "position": "Software Engineer @ Cross Works",
+          "bullets": "Responsible for developing and managing a variety of 3D applications & software projects ranging from masterplan visualisers to detailed digital twins for clients inside the urban design industry, Front-end expertise: JavaScript; TypeScript; HTML; React; CSS, Back-end expertise: SQL; MySQL; Firebase; NodeJS, Specialized in 2D/3D visualisation libraries: Three.js; ArcGIS; Leaflet, Specialised in Game Engines: Unity; C#; Unreal; C++, Project Management: Jira; Figma; PowerPoint; Excel"
+        },
+        {
+          "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+          "dates": "Sep 2020 - May 2023",
+          "type": "Full Time",
+          "position": "3D Web Developer @ Ydangle Apps",
+          "bullets": "Involved in developing a variety of 3D applications & software ranging from online meta-verse web applications to immersive virtual experiences for local and international clients, Front-end expertise: JavaScript; TypeScript; HTML; React; CSS, Back-end expertise: NodeJS; SQL; AWS; Firebase, Specialised in 2D/3D visualisation libraries: Three.js; Babylon, Specialised in Game Engines: Unity; C#, Performed data analysis: SQL; Cluvio."
+        }
+      ],
+      "education": {
+        "universityName": "University of Cape Town",
+        "universityDate": "2016-2019",
+        "universityPara": "Bachelor of Science with Honours in Computer Science & Computer Games Development. Graduated with 72% GPA. Published thesis on evolutionary computation, which lead to significant improvements in a popular evolutionary algorithm."
+      },
+      "languages": [
+        "TypeScript",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "C#",
+        "C++",
+        "Python"
+      ],
+      "frameworks": ["React", "NodeJs", "Three.js", "Babylon.js", "WebGL"],
+      "others": ["Unity Engine", "Unreal Engine", "AWS", "Figma", "Jira"]
+    }
+  }
+  
